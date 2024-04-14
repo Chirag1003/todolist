@@ -1,4 +1,3 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 
 
@@ -34,25 +33,6 @@ Make sure you have the following installed:
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 - An internet connection (for fetching external dependencies)
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd todo-list
-   ```
-
-3. **Open `index.html` in a Browser:**
-
-   Open the `index.html` file in your preferred web browser.
-
 
 ## 4. Code Structure
 
